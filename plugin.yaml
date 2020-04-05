@@ -1,0 +1,17 @@
+# Required items.
+game: "Assassin's Creed Origins"
+api: 1
+steamID: 582160
+uid: com.thegreatcabbage.acorigins
+author: TheGreatCabbage
+packageName: acorigins
+features:
+  - graphics
+  - keymaps
+
+# Optional items.
+graphicsConfig: "$!DOCUMENTS!$/Assassin's Creed Origins/ACO.ini"
+keymapConfig: "$!DOCUMENTS!$/Assassin's Creed Origins/ControlMappings.xml"
+gameDirectory: "Assassin's Creed Origins"
+verificationPaths:
+  - ACOrigins.exe
